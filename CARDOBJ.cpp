@@ -55,7 +55,7 @@ void card::switcher(card& c){
 }
 
 int main(){
-    card temp, chosen, prize;
+    card chosen, prize;
     int position;
     card card1(7, Clubs);
     cout<<"Card 1 is the: ";
